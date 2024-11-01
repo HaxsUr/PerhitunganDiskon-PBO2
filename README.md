@@ -13,6 +13,7 @@ Dengan Aplikasi Ini kita dapat Menghitung diskon dari slider dan combobox, dari 
 ## Keunggulan Aplikasi
 - Terdapat histori yang berfungsi untuk kita memudahkan dalam menganalisis penghematan dan diskon yang kita dapat
 - Memiliki harga akhir dan hemat yang memudahkan dalam  melihat harga akhir kita membayar
+- Bisa menambahkan kupon tambahan
 
 
 ## Pembuat
